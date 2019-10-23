@@ -1,0 +1,18 @@
+/* 
+    Created on : 30 трав. 2017, 14:23:03
+    Author     : Pavlo Degtyaryov
+    License: GNU General Public License v2 or later
+    License URI: http://www.gnu.org/licenses/gpl-2.0.htl
+*/
+/* Bukvycja Plugin */
+.bukvycja-letter p:first-of-type:first-letter, 
+.bukvycja-letter h1:first-of-type:first-letter, 
+.bukvycja-letter h2:first-of-type:first-letter, 
+.bukvycja-letter h3:first-of-type:first-letter, 
+.bukvycja-letter h4:first-of-type:first-letter {
+    font-size:40px;
+    color:#FF0000;
+    float:left;
+    line-height:38px;
+    padding-right:1px;
+}
