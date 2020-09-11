@@ -15,6 +15,8 @@ The plugin now has loads of settings. You can choose which pages to put drop cap
 
 The plugin marks-up the first paragraph (or all paragraphs ) starting with a capital letter. It makes the first letter into a drop cap and gives the paragraph a class of "first-child" allowing you to style the first paragraph in a different way. 
 
+You can find this plugin in the WordPress plugin directory by following the link https://wordpress.org/plugins/bukvycja/
+
 == Installation ==
 
 Upload this plugin in the normal way
